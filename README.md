@@ -1,0 +1,2 @@
+# startup
+just fuckin work
